@@ -7,7 +7,7 @@ OCamlの練習。
 
 ## Install
 
-clone this repo into your encvironment.
+clone this repo into your environment.
 
 ## Environment
 
