@@ -7,7 +7,7 @@ OCamlの練習。
 
 ## Install
 
-clone this repo into your encironment.
+clone this repo into your encvironment.
 
 ## Environment
 
@@ -20,7 +20,7 @@ clone this repo into your encironment.
 ocaml pi.ml <num>
 ```
 
-`num`: accurency of calculation
+`num`: accuracy of calculation
 
 ## Example
 
