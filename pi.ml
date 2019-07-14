@@ -1,8 +1,8 @@
 open Printf
 
 let rec pi_fraction n m i =
-  if i <= 0 then 0.0
-  else n +. (m *. m) /. (pi_fraction (n +. 2.) (m +. 1.) (i-1) );;
+  if i<=0 then 1.
+  else n +. (m *. m) /. (pi_fraction (n +. 2.) (m +. 1.) (i - 1) );;
 
 let pi n =
   4. /. (pi_fraction 1. 1. n);;
